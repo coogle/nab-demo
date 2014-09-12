@@ -1,0 +1,22 @@
+valid
+valid
+valid, but has 3 blank categories
+valid, but has 1 blank category
+valid, but has no categories
+valid
+valid, but has 1 blank category
+valid
+valid
+valid, but has 1 blank category
+invalid - id has been used before
+invalid - id has been used before
+invalid - id is not formatted correctly
+invalid - id is not formatted correctly
+invalid - id is missing
+invalid - id is not formatted correctly
+invalid - name is missing
+invalid - quantity is missing
+invalid - quantity is 0
+invalid - quantity is negative
+invalid - everything is missing
+invalid - quantity is not whole
